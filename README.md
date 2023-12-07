@@ -31,9 +31,7 @@
   </a>
 </p>
 ##
-<p align="right">
-  <img src="ms.gif" alt="animated" />
-</p>
+<img align="right" height="175" src="ms.gif"  />
 ###
 **📆 Plan on 2024:**
 **Get first comercial experience in Java programming**
