@@ -30,7 +30,11 @@
     <img src="https://skillicons.dev/icons?i=jenkins,aws,kafka,kotlin,rabbitmq,redis&theme=light" />
   </a>
 </p>
+📆
+<!--<img align="right" height="175" src="yoda.gif"  />
 
+<p align="left"><b>📆 Plan on 2024: </b></p>
+<p align="left"><b> Get first comercial experience in Java programming </b></p>
 <!--
 **KarolinaNPRCZ/KarolinaNPRCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
