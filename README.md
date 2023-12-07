@@ -35,8 +35,8 @@
   <img src="ms.gif" alt="animated" />
 </p>
 ###
-<p align="left"><b>📆 Plan on 2024: </b></p>
-<p align="left"><b> Get first comercial experience in Java programming </b></p>
+**📆 Plan on 2024:**
+**Get first comercial experience in Java programming**
 <!--
 **KarolinaNPRCZ/KarolinaNPRCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
