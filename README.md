@@ -30,9 +30,11 @@
     <img src="https://skillicons.dev/icons?i=jenkins,aws,kafka,kotlin,rabbitmq,redis&theme=light" />
   </a>
 </p>
+##
 <p align="right">
   <img src="ms.gif" alt="animated" />
 </p>
+###
 <p align="left"><b>📆 Plan on 2024: </b></p>
 <p align="left"><b> Get first comercial experience in Java programming </b></p>
 <!--
