@@ -1,6 +1,6 @@
                      
 <p align="center"><b>Hi there 👋</b></p>
-<img align="right" height="250" src="GIF.gif"  />
+<img align="centerdImage" height="250" src="GIF.gif"  />
 
 <!--
 **KarolinaNPRCZ/KarolinaNPRCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
