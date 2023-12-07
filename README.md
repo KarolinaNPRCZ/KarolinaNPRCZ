@@ -1,6 +1,6 @@
                      
 <p align="center"><b>Hi there 👋</b></p>
-<p align="center"><b>I'm Karolina, I have an Information Technology engineering degree. Currently, a postgraduate student in Java programming 👩‍🎓</b></p>
+<p align="center"><b>My name is Karolina and I have Bachelor of Engineering at Information Technology. Currently, a postgraduate student in Java programming 👩‍🎓</b></p>
 <p align="center"><b>I also work as a manual tester🔎🐞</b></p>
 
 
@@ -41,6 +41,9 @@ Get first comercial experience in Java programming
 ###
 
 📫 How to reach me:
+
+###
+
 <!--
 **KarolinaNPRCZ/KarolinaNPRCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,5 +56,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -  ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
