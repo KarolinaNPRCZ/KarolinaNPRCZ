@@ -33,7 +33,7 @@
 
 ##
   
-<img align="right" height="220" widht src="ms.gif"  />
+<img align="right" height="220" src="ms.gif"  />
 
 📆 Plan on 2024:  
 Get first comercial experience in Java programming
