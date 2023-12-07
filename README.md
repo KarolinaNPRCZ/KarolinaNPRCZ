@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,gradle,java,linux,maven,mongodb,mysql,postgres/postman,spring" />
+    <img src="https://skillicons.dev/icons?i=docker,git,gradle,java,linux,maven,mongodb,mysql,postgres,postman,spring" />
   </a>
 </p>
 
