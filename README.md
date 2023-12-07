@@ -33,7 +33,7 @@
 
 ##
   
-<img align="right" src="MS.gif"  />
+<img align="right" src="scott.gif"  />
 
 📆 Plan on 2024:  
 Get first comercial experience in Java programming
