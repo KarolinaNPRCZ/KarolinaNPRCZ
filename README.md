@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,aws,kafka,kotlin,rabbitmq,redis&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws,jenkins,kafka,kotlin,rabbitmq,redis&theme=light" />
   </a>
 </p>  
 
