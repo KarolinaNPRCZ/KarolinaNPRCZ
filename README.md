@@ -29,9 +29,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jenkins,aws,kafka,kotlin,rabbitmq,redis&theme=light" />
   </a>
-</p>
-
-<img align="right" height="250" src="ms.gif"  />
+</p>  
+  
+<img align="right" height="200" src="ms.gif"  />
 
 📆 Plan on 2024:  
 Get first comercial experience in Java programming
