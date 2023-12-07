@@ -30,6 +30,8 @@
     <img src="https://skillicons.dev/icons?i=jenkins,aws,kafka,kotlin,rabbitmq,redis&theme=light" />
   </a>
 </p>  
+
+##
   
 <img align="right" height="220" widht src="ms.gif"  />
 
