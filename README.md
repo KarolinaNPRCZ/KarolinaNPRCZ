@@ -11,7 +11,7 @@
 
 ##
 
-<p align="center"><b>Below Tech stack that I actually practice 🌱</b></p>
+<p align="center"><b>Below Tech stack that I actually practice🔭</b></p>
 
 ###
 
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p align="center"><b>Tech stack that I want to learn</b></p>
+<p align="center"><b>Tech stack that I want to learn🌱</b></p>
 
 ###
 
@@ -44,6 +44,7 @@ Get first comercial experience in Java programming
 
 ###
 
+⚡The office fan as you can see 🏢
 <!--
 **KarolinaNPRCZ/KarolinaNPRCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
