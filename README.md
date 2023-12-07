@@ -1,6 +1,6 @@
                      
 <p align="center"><b>Hi there 👋</b></p>
-<p align="center"><b>My name is Karolina and I have Bachelor of Engineering at Information Technology. Currently, a postgraduate student in Java programming👩‍🎓</b></p>
+<p align="center"><b>My name is Karolina and I have Bachelor of Engineering at Information Technology. Currently, a postgraduate student in Java programming👩‍🎓📚</b></p>
 <p align="center"><b>I also work as a manual tester🔎🐞</b></p>
 
 
