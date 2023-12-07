@@ -36,7 +36,10 @@
 <img align="right" src="scott.gif"  />
 
 📆 Plan on 2024:  
-Get first comercial experience in Java programming    
+Get first comercial experience in Java programming  
+
+###
+
 📫 How to reach me:
 <!--
 **KarolinaNPRCZ/KarolinaNPRCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
