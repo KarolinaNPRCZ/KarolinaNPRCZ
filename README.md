@@ -31,9 +31,9 @@
   </a>
 </p>
 
-<img align="right" height="175" src="ms.gif"  />
+<img align="right" height="250" src="ms.gif"  />
 
-📆 Plan on 2024:
+📆 Plan on 2024:  
 Get first comercial experience in Java programming
 <!--
 **KarolinaNPRCZ/KarolinaNPRCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
