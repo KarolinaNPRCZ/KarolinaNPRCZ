@@ -1,6 +1,9 @@
                      
 <p align="center"><b>Hi there 👋</b></p>
-<p align="center"><b>Hello, I am Karolina. I am a manual tester and postgraduate student of Java programming</b></p>
+<p align="center"><b>I'm Karolina, I have an Information Technology engineering degree. Currently, a postgraduate student in Java programming 👩‍🎓</b></p>
+<p align="center"><b>I also work as a manual tester🔎🐞</b></p>
+
+
 
 <p align="center">
   <img src="GIF.gif" alt="animated" />
@@ -8,7 +11,7 @@
 
 ##
 
-<p align="center"><b>Below Tech stack that I actually practice</b></p>
+<p align="center"><b>Below Tech stack that I actually practice 🌱</b></p>
 
 ###
 
