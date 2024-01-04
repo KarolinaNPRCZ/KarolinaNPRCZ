@@ -44,7 +44,9 @@ Get first comercial experience in Java programming
 
 ###
 
-⚡The office fan as you can see 🏢
+⚡Arduino fan 📟 
+
+![KarolinaNPRCZ GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolinaNPRCZ&show_icons=true&theme=nord)
 <!--
 **KarolinaNPRCZ/KarolinaNPRCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
