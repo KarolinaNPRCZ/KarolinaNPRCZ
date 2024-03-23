@@ -11,7 +11,7 @@
 
 ##
 
-<p align="center"><b>Below Tech stack that I actually practice 🔭</b></p>
+<p align="center"><b>Tech stack that I actually practice 🔭</b></p>
 
 ###
 
