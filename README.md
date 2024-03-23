@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,gradle,java,linux,maven,mongodb,mysql,postgres,postman,spring" />
+    <img src="https://skillicons.dev/icons?i=docker,git,gradle,java,jenkins,linux,maven,mongodb,mysql,postgres,postman,spring" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,jenkins,kafka,kotlin,rabbitmq,redis&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws,kafka,kotlin,rabbitmq,redis&theme=light" />
   </a>
 </p>  
 
