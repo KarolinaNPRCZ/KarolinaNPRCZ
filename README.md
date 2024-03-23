@@ -46,7 +46,7 @@ Get first comercial experience in Java programming
 
 ⚡Arduino fan 📟 
 
-![KarolinaNPRCZ GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolinaNPRCZ&show_icons=true&theme=nord)
+![KarolinaNPRCZ GitHub stats](https://github-readme-stats.vercel.app/api?username=KarolinaNPRCZ&show_icons=true&theme=tokyonight)
 <!--
 **KarolinaNPRCZ/KarolinaNPRCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
