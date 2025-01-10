@@ -1,7 +1,7 @@
                      
 <p align="center"><b>Hi there 👋</b></p>
-<p align="center"><b>My name is Karolina and I have Bachelor of Engineering at Information Technology. Currently, a postgraduate student in Java programming👩‍🎓📚</b></p>
-<p align="center"><b>I also work as a manual tester 🔎🐞</b></p>
+<p align="center"><b>My name is Karolina and I'm a backend developer with a bachelor's degree in computer science and a postgraduate diploma in Java programming. 👩‍🎓📚</b></p>
+<p align="center"><b>I have also worked as a manual tester. 🔎🐞</b></p>
 
 
 
@@ -11,32 +11,29 @@
 
 ##
 
-<p align="center"><b>Tech stack that I actually practice 🔭</b></p>
+<p align="center"><b>Tech stack that I actually now. 🔭</b></p>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,gradle,java,jenkins,linux,maven,mongodb,mysql,postgres,postman,spring" />
+    <img src="https://skillicons.dev/icons?i=docker,git,gitlab,gradle,hibernate,java,jenkins,linux,maven,mongodb,mysql,ubuntu,postgres,postman,spring" />
   </a>
 </p>
 
-<p align="center"><b>Tech stack that I want to learn 🌱</b></p>
+<p align="center"><b>Tech stack that I actually practise. 🌱</b></p>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kafka,kotlin,rabbitmq,react,redis&theme=light" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,kafka,kotlin,rabbitmq,react,redis,vscode&theme=light" />
   </a>
 </p>  
 
 ##
   
 <img align="right" src="scott.gif"  />
-
-📆 Plan on 2024:  
-Get first comercial experience in Java programming  
 
 ###
 
